@@ -74,7 +74,7 @@ Python-based scraper for **hotel listing extraction** and ranking using Beautifu
 
 ## 📫 Let's Connect  
 💼 Open to **internships**, **collaborations**, or **freelance projects** in ML, AI, or full-stack development.  
-📧 Email: [2022.atharva.shinde@ves.ac.in](mailto:2022.atharva.shinde@ves.ac.in)  
+📧 Email: [atharvas6780@gmail.com](mailto:atharvas6780@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/atharvashinde6780/) | [Portfolio](https://portfolio-frontend-j9j3.onrender.com/)
 
 ---
