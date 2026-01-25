@@ -3,7 +3,7 @@
 🎓 **B.E in Information Technology**  
 🏫 Vivekanand Education Society’s Institute Of Technology (VESIT), Mumbai  
 📍 Mumbai, India  
-📧 2022.atharva.shinde@ves.ac.in  
+📧 atharvas6780@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/atharvashinde6780/) | [GitHub](https://github.com/Atharva6780) | [Portfolio](https://portfolio-frontend-j9j3.onrender.com/)
 
 ---
@@ -41,27 +41,10 @@ Led development of a unified investment tracking platform integrating AI insight
 ---
 
 ## 🧠 Technical Skills  
-**Programming:** Python, Java, C, JavaScript, TypeScript  
+**Programming:** Python, Java, JavaScript, TypeScript  
 **Web Development:** HTML, CSS, React.js, Node.js, Express.js, Flask, REST APIs, Tailwind CSS 
 **Databases:** MongoDB, MySQL, Firebase  
 **Tools:** Git, Docker (basics), Postman  
-
----
-
-## 📂 Projects  
-
-🔗 **[FarmBazaar – Contract Farming Platform](#)**  
-Decentralized platform enabling farmers and buyers to pre-sell crops using **smart contracts**.  
-Includes AI/ML models for **price prediction**, **production estimation**, and **disease detection**.
-
-🔗 **[EcoSynth – AI-Powered Audio & Video Companion](#)**  
-Flask-based AI multimedia tool integrating **TTS**, **voice cloning**, **STT**, and **video generation**.
-
-🔗 **[BailEase – AI-Powered Legal Support System](#)**  
-MERN-based system simplifying the bail process using **AI-driven chatbots** and **eligibility prediction**.
-
-🔗 **Web Scraping Tool**  
-Python-based scraper for **hotel listing extraction** and ranking using BeautifulSoup, Pandas, and NumPy.
 
 ---
 
