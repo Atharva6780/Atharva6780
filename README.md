@@ -1,64 +1,101 @@
-# 👋 Hi, I'm Atharva Shinde
+<h1 align="center">
+  Hi there 👋 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+</h1>
 
-🎓 **B.E in Information Technology**  
-🏫 Vivekanand Education Society’s Institute Of Technology (VESIT), Mumbai  
-📍 Mumbai, India  
-📧 atharvas6780@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/atharvashinde6780/) | [GitHub](https://github.com/Atharva6780) | [Portfolio](https://portfolio-frontend-j9j3.onrender.com/)
+<h3 align="center">I'm Atharva Shinde</h3>
+<p align="center">
+  Full Stack Developer | AI & ML Enthusiast
+</p>
 
----
+<p align="center">
+  🎓 B.E. in Information Technology <br/>
+  🏫 Vivekanand Education Society’s Institute of Technology (VESIT), Mumbai <br/>
+  📍 Mumbai, India
+</p>
 
-### 👁️ Profile Views  
-![](https://komarev.com/ghpvc/?username=Atharva6780&color=blueviolet)
+<p align="center">
+  <a href="mailto:atharvas6780@gmail.com">📧 Email</a> •
+  <a href="https://www.linkedin.com/in/atharvashinde6780/">LinkedIn</a> •
+  <a href="https://github.com/Atharva6780">GitHub</a> •
+  <a href="https://portfolio-frontend-j9j3.onrender.com/">Portfolio</a>
+</p>
 
----
-
-## 🚀 About Me  
-I'm a **Full Stack Developer** and **AI Enthusiast** passionate about building innovative, scalable, and real-world impactful projects.  
-I specialize in the **MERN stack**, **Python**, and **Machine Learning**, combining technology and creativity to solve modern challenges — from smart agriculture to AI-powered media systems.
-
----
-
-## 🏆 Achievements  
-🥈 **Top 10 Finalist - Excavate @ IIT Kharagpur 2025**  
-Built a functional website integrating ML models for band gap prediction using **XGBoost**.  
-
-💡 **Top 40 - Ideathon 2.0, PCU Pune (out of 400+ teams)**  
-Co-created **EcoSynth**, an AI-powered audio-video companion with dubbing, speech-to-text, and voice cloning.  
-
-🏅 **Top 40 - Syrus Hackathon**  
-Led development of a unified investment tracking platform integrating AI insights.  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Atharva6780&label=Profile%20Views&color=blueviolet&style=flat" />
+</p>
 
 ---
 
-## 💼 Experience  
-**Web Developer Intern — Athang Infotech (Nov 2024 – June 2025)**  
-📍 Satara, Hybrid  
-- Developed frontend modules for a **booking engine**, **attendance system**, and **billing software**.  
-- Built **automation workflows** using n8n integrating **AI agents**, **Twilio**, and **Telegram Bots**.  
-- Improved UI/UX and optimized performance for real-time client projects.  
+## 🚀 About Me
+I am a **Full Stack Developer** and **AI Enthusiast** with hands-on experience in building scalable, real-world applications.  
+My interests lie in **MERN stack development**, **Machine Learning**, and **AI-powered systems**, where I enjoy combining clean engineering with innovative problem-solving.
+
+I’ve worked on projects ranging from **AI-driven audio-video platforms** to **ML-based prediction systems**, always focusing on performance, usability, and impact.
 
 ---
 
-## 🧠 Technical Skills  
-**Programming:** Python, Java, JavaScript, TypeScript  
-**Web Development:** HTML, CSS, React.js, Node.js, Express.js, Flask, REST APIs, Tailwind CSS 
-**Databases:** MongoDB, MySQL, Firebase  
-**Tools:** Git, Docker (basics), Postman  
+## 🏆 Achievements
+🥈 **Top 10 Finalist — Excavate @ IIT Kharagpur (2025)**  
+Built a production-ready web platform integrating **XGBoost models** for band gap prediction.
+
+💡 **Top 40 — Ideathon 2.0, PCU Pune (400+ teams)**  
+Co-developed **EcoSynth**, an AI-powered audio-video companion featuring dubbing, speech-to-text, and voice cloning.
+
+🏅 **Top 40 — Syrus Hackathon**  
+Led development of an AI-driven unified investment tracking platform.
 
 ---
 
-## 🧾 Certifications  
-✅ Java & Python Full Stack Development  
-✅ Machine Learning & Flask  
-✅ MERN Stack Development  
+## 💼 Experience
+**Web Developer Intern — Athang Infotech**  
+*Nov 2024 – June 2025 | Satara (Hybrid)*
+
+- Developed frontend modules for **booking engines**, **attendance systems**, and **billing software**
+- Built **automation workflows** using **n8n**, integrating **AI agents**, **Twilio**, and **Telegram Bots**
+- Enhanced UI/UX and optimized performance for real-time client applications
 
 ---
 
-## 📫 Let's Connect  
-💼 Open to **internships**, **collaborations**, or **freelance projects** in ML, AI, or full-stack development.  
-📧 Email: [atharvas6780@gmail.com](mailto:atharvas6780@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/atharvashinde6780/) | [Portfolio](https://portfolio-frontend-j9j3.onrender.com/)
+## 🧠 Tech Stack
+
+### Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript" />
+</p>
+
+### Web Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,flask,tailwind" />
+</p>
+
+### Databases & Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
+</p>
+
+### Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,docker,postman" />
+</p>
+
+---
+
+## 🧾 Certifications
+- Java & Python Full Stack Development  
+- Machine Learning & Flask  
+- MERN Stack Development  
+
+---
+
+## 📫 Let’s Connect
+I’m open to **internships**, **collaborations**, and **freelance opportunities** in:
+- Full Stack Development  
+- Machine Learning & AI  
+
+📧 **Email:** atharvas6780@gmail.com  
+🔗 **LinkedIn:** https://www.linkedin.com/in/atharvashinde6780/  
+🌐 **Portfolio:** https://portfolio-frontend-j9j3.onrender.com/
 
 ---
 
